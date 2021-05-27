@@ -1,0 +1,2 @@
+# Hubot Slack test Training
+
